@@ -1,3 +1,5 @@
+This repository contains a collection of my Python projects, showcasing a variety of applications and coding practices.
+
 # Python Projects Repository
 
 This repository contains a collection of my Python projects, showcasing a variety of applications and coding practices. Each project is organized into its own directory, complete with relevant documentation and source code.
